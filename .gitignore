@@ -33,3 +33,4 @@
 
 # Exclude undotree of emacs
 *.~undo-tree~ 
+*~
